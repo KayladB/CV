@@ -21,7 +21,7 @@ body {
   body {
     /* Apply 100px side margins only on desktop/large screens */
     margin: 0 100px;
-  }
+  } 
 }
 
 #address {
