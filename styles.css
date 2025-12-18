@@ -16,7 +16,7 @@ body {
   margin-right: 1.5em;
   margin-top: 1.5em;
 }
-  /* When the screen is wider than 768px */
+  
 @media screen and (min-width: 768px) {
   body {
     /* Apply 100px side margins only on desktop/large screens */
